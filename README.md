@@ -12,3 +12,7 @@ Some AI learning resources
 LLM+bayesian optimization
 
 https://github.com/vanderschaarlab/LLAMBO
+
+## Acceleration
+
+[DeepSpeed](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)

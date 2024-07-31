@@ -16,3 +16,6 @@ https://github.com/vanderschaarlab/LLAMBO
 ## Acceleration
 
 [DeepSpeed](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)
+
+
+[Apple intelligence](https://machinelearning.apple.com/papers/apple_intelligence_foundation_language_models.pdf)

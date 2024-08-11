@@ -4,6 +4,7 @@ Some AI learning resources
 [Hung-yi Li Generative AI](https://www.youtube.com/watch?v=JGtqpQXfJis)
 
 
+[LLM visualization](https://bbycroft.net/llm)
 
 ## LLM optimization
 
@@ -19,3 +20,5 @@ https://github.com/vanderschaarlab/LLAMBO
 
 
 [Apple intelligence](https://machinelearning.apple.com/papers/apple_intelligence_foundation_language_models.pdf)
+
+
